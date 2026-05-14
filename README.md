@@ -1,21 +1,24 @@
-# Practica-github
+# Práctica GitHub
 
 ## Descripción
-Repositorio académico para practicar GitHub.
+Este repositorio fue creado para practicar el uso básico de GitHub, commits, ramas y Pull Requests.
 
 ## Autor
-Karelin Tatiana Calderon Caalixto
+Karelin Calixto
 
 ## Carrera
-Ingenieria de sistemas
+Ingeniería en Sistemas
 
 ## Año
 Primer año
 
 ## Objetivo
-Aplicar creación de repositorio, commits, ramas y Pull Request.
+Aprender el flujo básico de trabajo en GitHub mediante la creación de repositorios, commits y ramas.
 
-## Cómo revisar
-1. Abrir el archivo README.md.
-2. Revisar la carpeta semana-01.
-3. Ver los commits y la rama mejora-readme.
+## Pasos para revisar el contenido
+1. Abrir la carpeta semana-01.
+2. Revisar el archivo index.html.
+3. Verificar commits realizados.
+4. Revisar la rama mejora-readme y el Pull Request.
+
+5. 
