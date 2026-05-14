@@ -4,7 +4,7 @@
 Este repositorio fue creado para practicar el uso básico de GitHub, commits, ramas y Pull Requests.
 
 ## Autor
-Karelin Calixto
+Karelin Tatiana Calderón Calixto
 
 ## Carrera
 Ingeniería en Sistemas
@@ -21,4 +21,4 @@ Aprender el flujo básico de trabajo en GitHub mediante la creación de reposito
 3. Verificar commits realizados.
 4. Revisar la rama mejora-readme y el Pull Request.
 
-5. 
+
