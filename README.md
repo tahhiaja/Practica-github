@@ -10,7 +10,7 @@ Karelin Tatiana Calderon Caalixto
 Ingenieria de sistemas
 
 ## Año
-2026
+Primer año
 
 ## Objetivo
 Aplicar creación de repositorio, commits, ramas y Pull Request.
